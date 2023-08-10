@@ -78,7 +78,7 @@ def chatbot_response(user_input):
 
 
 # Start chatting
-print("Chatbot: Hello, I'm your long-term chatbot. How can I assist you today?")
+print("Chatbot: Hello, I'm your RAW-chatbot. How can I assist you today?")
 while True:
     user_input = input("You: ")
     if user_input.lower() == 'exit':
