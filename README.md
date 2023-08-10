@@ -1,6 +1,5 @@
 # RAW-Chatbot
 
-![Chatbot Image](chatbot_image.png)
 
 Welcome to the RAW-Chatbot repository! This Python program simulates a simple text-based chatbot capable of engaging in conversations with users. It utilizes natural language processing techniques to understand user inputs and provide relevant responses.
 
