@@ -16,7 +16,7 @@ Welcome to the RAW-Chatbot repository! This Python program simulates a simple te
 3. Customize the `corpus`, `random_responses`, `knowledge_base`, and `greetings` lists to match the topics and interactions you want your chatbot to have.
 4. Run the `chatbot.py` script using your preferred Python interpreter.
 
-## Usage
+## Usage...
 
 - The chatbot initiates the conversation with a greeting.
 - You can interact with the chatbot by entering your input after the `You:` prompt.
